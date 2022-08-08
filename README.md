@@ -2,7 +2,7 @@
 
 ### Mini Project - Using Singly Linked List in C++
 
-This mini project is **COMPUTER SHOP MANAGEMENT SYSTEM** developed in C++ using **linked list**.
+This mini project is **COMPUTER SHOP MANAGEMENT SYSTEM** developed in C++ using **linked list**. To understand concept in depth i have made this project by show casing how linked list can be really used in real life scenerios.
 
 <p>&nbsp;</p>
 
@@ -13,8 +13,6 @@ This mini project is **COMPUTER SHOP MANAGEMENT SYSTEM** developed in C++ using 
 1. Open Folder in IDE
 2. Run **Project.cpp** file in cmd as - **g++ Project.cpp**
 3. Hit Enter
-
-![How to Run](https://user-images.githubusercontent.com/65342304/128621157-f96e5710-540a-4759-85be-13a24da0a47e.gif)
 
 You can directly run the program by accessing **a.exe** file. Simply open it.
 
